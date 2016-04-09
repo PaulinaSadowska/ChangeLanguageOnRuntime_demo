@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ChangeLanguageOnRuntime_Demo</string>
+    <string name="dummy_text">Some stupid text</string>
+    <string name="change_language_to_PL">change language to PL</string>
+    <string name="change_language_to_EN">stay awesome!</string>
+</resources>

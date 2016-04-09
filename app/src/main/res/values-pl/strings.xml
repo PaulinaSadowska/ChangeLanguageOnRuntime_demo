@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="dummy_text">Jakiś głupi tekst</string>
+    <string name="change_language_to_EN">zmień język na EN</string>
+    <string name="change_language_to_PL">cebuuula</string>
+
+</resources>
